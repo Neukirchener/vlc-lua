@@ -5,7 +5,7 @@
  Linux: 	~/.local/share/vlc/lua/extensions
  macOS: 	/Users/<your_name>/Library/Application Support/org.videolan.vlc/lua/extensions
  
- Unter "Ansicht -> Fernsehsender" können die Sender ausgewählt werden.
+ Unter "Ansicht -> Magenta TV" können die Sender ausgewählt werden.
  
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
