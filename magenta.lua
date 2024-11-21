@@ -1,5 +1,5 @@
 --[[
- Lua Skript für VLC, um Fernsehsender von Magenta TV (IPTV) - via VLC - zu schauen.
+ Lua-Skript für VLC, um Fernsehsender von Magenta TV (IPTV), zu schauen.
  Speicherort:
  Windows: 	%APPDATA%\vlc\lua\extensions
  Linux: 	~/.local/share/vlc/lua/extensions
