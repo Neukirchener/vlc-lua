@@ -14,7 +14,7 @@ Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
  
  ![Alt text](https://github.com/Neukirchener/vlc-lua/blob/6a716883236a876958a54d6bdb2926d116a98614/iptv.png?raw=true "Vorschau")
 
-Nutzer von Linux können zur schnelleren Installation das passende Bash-Skript (z.B. magenta_install.sh) verwenden. 
+Nutzer von Linux können, zur schnelleren Installation, das passende Bash-Skript (z.B. magenta_install.sh) verwenden. 
 
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
