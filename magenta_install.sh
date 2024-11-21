@@ -3,7 +3,7 @@
 # Variablen definieren
 VLC_EXT_DIR="$HOME/.local/share/vlc/lua/extensions"
 SCRIPT_NAME="magenta.lua"
-REPO_URL="https://github.com/Neukirchener/vlc-lua/blob/01ceff25323c3c03efcd005ae4ec6c30e3a96a4b/lua/$SCRIPT_NAME"
+REPO_URL="hhttps://github.com/Neukirchener/vlc-lua/blob/3d2cbb474b8d08d1a4d8a80ea9dd1d20b81b5c61/lua/$SCRIPT_NAME"
 
 # Verzeichnis erstellen, falls nicht vorhanden
 mkdir -p "$VLC_EXT_DIR"
