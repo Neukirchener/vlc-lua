@@ -1,6 +1,7 @@
-IP-TV mit VLC komfortabel nutzen. 
+IP-TV mit VLC - ohne Playlist - nutzen.  
 
 Im Verzeichnis sind die lua-Skripte für Magenta und Vodafone zu finden. 
+
 Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
 
  Windows: 	%APPDATA%\vlc\lua\extensions
