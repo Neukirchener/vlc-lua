@@ -9,6 +9,10 @@ Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
  
  macOS: 	/Users/<your_name>/Library/Application Support/org.videolan.vlc/lua/extensions
 
+ Anschließend ist unter "Ansicht" ein neuer Menüpunkt zu finden.
+
+ ![Alt text](https://github.com/Neukirchener/vlc-lua/blob/1c21a6f8c5f69332e6ce76796adee3a781d96ac6/iptv.png?raw=true "Title")
+
 Nutzer von Linux können zur schnelleren Installation das passende Bash-Skript (z.B. magenta_install.sh) verwenden. 
 
  This program is free software; you can redistribute it and/or modify
