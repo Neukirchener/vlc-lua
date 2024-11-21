@@ -26,8 +26,8 @@ function descriptor()
     return {
         title = "Magenta TV",
         version = "1.0",
-        author = "march",
-        url = "http://example.com",
+        author = "Neukirchener",
+        url = "https://github.com/Neukirchener/",
         shortdesc = "Magenta TV",
         description = "Bietet eine Auswahl an Fernsehsendern zur Wiedergabe an.",
         capabilities = {}
