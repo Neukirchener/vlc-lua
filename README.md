@@ -4,7 +4,9 @@ Im Verzeichnis sind die lua-Skripte für Magenta und Vodafone zu finden.
 Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
 
  Windows: 	%APPDATA%\vlc\lua\extensions
+ 
  Linux: 	~/.local/share/vlc/lua/extensions
+ 
  macOS: 	/Users/<your_name>/Library/Application Support/org.videolan.vlc/lua/extensions
 
 Nutzer von Linux können zur schnelleren Installation das passende Bash-Skript (z.B. magenta_install.sh) verwenden. 
