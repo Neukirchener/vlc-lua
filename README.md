@@ -1,6 +1,6 @@
 IP-TV mit VLC - ohne Playlist - nutzen.  
 
-Im Verzeichnis sind die lua-Skripte für Magenta und Vodafone zu finden. 
+Im Verzeichnis sind die lua-Skripte für Magenta und Vodafone zu finden. Letzteres ist ungetestet und die Adressen basieren aus Informationen, welche im Internet zu finden sind. 
 
 Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
 
@@ -15,21 +15,6 @@ Die heruntergeladenen Dateien in den entsprechenden Ordner kopieren:
  Anschließend ist unter "Ansicht" ein neuer Menüpunkt zu finden.
  
  ![Alt text](https://github.com/Neukirchener/vlc-lua/blob/6a716883236a876958a54d6bdb2926d116a98614/iptv.png?raw=true "Vorschau")
-
-Nutzer von Linux können, zur schnelleren Installation, das passende Bash-Skript (z.B. magenta_install.sh) verwenden. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  This program is free software; you can redistribute it and/or modify
